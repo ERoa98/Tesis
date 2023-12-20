@@ -12,3 +12,8 @@ En este proyecto se exploran y evalúan diversos modelos de aprendizaje automát
 - `notebooks/`: Jupyter notebooks con la exploración de datos, pruebas de modelos y análisis de resultados.
 - `data/`: Datos utilizados en el proyecto (SKAB).
 - `RodamientosData/`: Bearing Vibration Dataset.
+
+
+## Contacto
+Emilio Raúl Roa Ramírez - Universidad de Chile
+emilio.roa12gmail.com
